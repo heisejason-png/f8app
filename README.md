@@ -12,3 +12,4 @@ We've created a series of tutorials at http://makeitopen.com/ that explain how w
 Check out how to set the app up for local development [here](http://makeitopen.com/docs/en/1-A1-local-setup.html)!
 Created by heisejason Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com
